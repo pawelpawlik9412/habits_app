@@ -1,6 +1,6 @@
 # habitsapp
 
-A new Flutter application.
+Application, based on firebase. Supports registration, login and password recovery and setting your profile photo from the phone gallery.
 
 ## Getting Started
 
