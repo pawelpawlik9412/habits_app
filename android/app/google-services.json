@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444568643371",
+    "firebase_url": "https://habits-app-5d9a0.firebaseio.com",
+    "project_id": "habits-app-5d9a0",
+    "storage_bucket": "habits-app-5d9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444568643371:android:0658118d45ec9e6b41876e",
+        "android_client_info": {
+          "package_name": "com.pawelpawlik.habitsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444568643371-otjb1bl5iqrs4l2rol44qc54ofosrqu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB37AjSXRvI32-ZDzg6yilhnsM4FrTTYS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444568643371-otjb1bl5iqrs4l2rol44qc54ofosrqu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444568643371-396tqffhnpdg5sgucfe49t37fe4p2a2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawelpawlik.habitsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
